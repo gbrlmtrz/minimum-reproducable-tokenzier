@@ -1,0 +1,13 @@
+{
+  "name": "minimumissue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "startmjs": "node ./index.mjs",
+    "startcjs": "node ./index.js"
+  },
+  "dependencies": {
+    "gpt-tokenizer": "^1.0.3"
+  }
+}
